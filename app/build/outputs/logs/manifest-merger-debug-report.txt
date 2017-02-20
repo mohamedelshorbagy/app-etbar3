@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:5:5-43:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.mohamed.testlink.MainActivity
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:10:9-14:20
+	android:label
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:11:13-41
+activity#com.example.mohamed.testlink.Home
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:16:9-20:20
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:17:13-33
+activity#com.example.mohamed.testlink.signup
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:21:9-25:20
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:22:13-35
+activity#com.example.mohamed.testlink.request_blood
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.example.mohamed.testlink.login
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:34:13-29
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:33:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\ChatApplication\testLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ChatApplication\testLink\app\src\main\AndroidManifest.xml
